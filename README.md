@@ -1,4 +1,4 @@
-# uses
+## 💻 uses
 
 A list of hardware and software that I use.
 
