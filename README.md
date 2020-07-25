@@ -13,3 +13,10 @@ Cherry MX Silent Red switches
 Matte White, Black Ascended Cord  
 >*One of the best lightweight ambidextrous mice available. It could use a few improvements but great overall performance for the $50 USD price.*  
 [Video Review](https://youtu.be/dKuVZH7584k)
+
+**Mousepad**
+[SteelSeries QCK](https://steelseries.com/gaming-mousepads/qck-series?size=l)
+Large
+
+>*My go-to mouse pad for many, many years. There's probably a better one out there now but it performs great for $15 USD.*
+[Video Review](https://youtu.be/1HfnGN_iRdk)
