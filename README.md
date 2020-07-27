@@ -19,3 +19,8 @@ Matte White, Black Ascended Cord
 Large (previously known as QcK+)  
 >*My go-to mouse pad for many, many years. Very low profile, no rough edges, pretty sturdy rubber base with a medium speed cloth surface weave. Not the most durable mousepad out there but it's a great value at $15 USD.*  
 [Video Review](https://youtu.be/PAxJnLeyCjc)
+
+**Mouse Bungee**  
+[Razer Mouse Bungee V2](https://www.razer.com/gaming-mice-accessories/razer-mouse-bungee-v2/RC21-01210100-R3M1)  
+>*I liked the slimmer look of this bungee over other competitors. It works fine but could be a little bit heavier and the bottom mouse cord clips could be a little smaller or even adjustable to tightly grip all types of cords with different diameters.*  
+[Video Review](https://youtu.be/EDLjtlRh1rk)
