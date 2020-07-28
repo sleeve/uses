@@ -2,12 +2,11 @@
 
 A list of hardware and software that I use.
 
-**Monitor**  
-[ASUS ROG Swift PG278Q](https://www.asus.com/Monitors/ROG_SWIFT_PG278Q/)
+**Monitor • [ASUS ROG Swift PG278Q](https://www.asus.com/Monitors/ROG_SWIFT_PG278Q/)**  
 27" 2560x1440p 144hz G-Sync TN Panel  
 PC: Stock DisplayPort Cable; Mac: Cable Matters USB-C to DisplayPort Cable  
->*I've been rocking this as my main monitor since it was first released in late 2014. It was the first monitor that could do 1440p@144hz with G-Sync. Overall it's been great and mostly trouble-free. I still only run a single-monitor configuration but have multiple systems which is a headache with this since it only has one video input. I really need a multi-monitor setup with a gaming monitor and a work/everything else monitor.*
-[Video Review](https://youtu.be/XdqTIfNv2DE)
+[Video Review](https://youtu.be/XdqTIfNv2DE)  
+>I've been rocking this as my main monitor since it was first released in late 2014. It was the first monitor that could do 1440p@144hz with G-Sync. Overall it's been great and mostly trouble-free. I still only run a single-monitor configuration but have multiple systems which is a headache with this since it only has one video input. I really need a multi-monitor setup with a dedicated gaming monitor and a separate monitor for everything else.
 
 **Keyboard**  
 [MK Night Typist](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4295)  
