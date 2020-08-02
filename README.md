@@ -26,3 +26,7 @@ Large (previously known as the QcK+)
 **Mouse Bungee • [Razer Mouse Bungee V2](https://www.razer.com/gaming-mice-accessories/razer-mouse-bungee-v2/RC21-01210100-R3M1)**  
 [Video Review](https://youtu.be/EDLjtlRh1rk)  
 >I liked the slimmer look of this bungee over other competitors. It works fine but could be a little bit heavier and the bottom mouse cord clips could be a little smaller or even adjustable to tightly grip all types of cords with different diameters.
+
+**Desk • [Ikea Melltorp](https://www.ikea.com/us/en/p/melltorp-table-white-s19011777/)**  
+White  
+>It's been a great desk for many years. Good amount of desk space, clean simple design and super affordable. Just wish it was a bit more stable. The legs can get a bit wobbly at times.
