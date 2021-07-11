@@ -30,3 +30,7 @@ Large (previously known as the QcK+)
 **Desk • [Ikea Melltorp](https://www.ikea.com/us/en/p/melltorp-table-white-s19011777/)**  
 White  
 >It's been a great desk for many years. Good amount of desk space, clean simple design and super affordable. Just wish it was a bit more stable. The legs can get a bit wobbly at times.
+
+**Camera • [Logitech StreamCam](https://www.logitech.com/en-us/product/streamcam)**  
+Graphite
+> Solid little 1080p camera for video meetings.
